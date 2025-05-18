@@ -9,7 +9,6 @@ A web-based tool that allows you to manually encode and decode UTF-8 byte sequen
 - Encode text to UTF-8 byte sequences (in hex)
 - Decode UTF-8 hex bytes into human-readable text
 - Accepts space-separated hex byte formats
-- Styled with a retro computer terminal aesthetic (green-on-black)
 - Handles surrogate pairs and invalid UTF-8 gracefully
 - Supports 1–4 byte UTF-8 sequences (ASCII, extended Latin, CJK, emoji, etc.)
 

@@ -18,5 +18,6 @@ A retro-themed web-based tool that allows you to manually encode and decode UTF-
 ![image](https://github.com/user-attachments/assets/bdb09a35-a428-4335-83ea-98bfc0c4d274)
 
 Created with the help of the following github repo + article: 
+
 repo -> https://github.com/vincentcorbee/string-encoding
 article -> https://medium.com/@vincentcorbee/utf-16-to-utf-8-in-javascript-18b4b11b6e1e 

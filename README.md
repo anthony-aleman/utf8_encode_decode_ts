@@ -1,4 +1,4 @@
-# 🧠 UTF-8 Encoder / Decoder Web App
+# UTF-8 Encoder / Decoder Web App
 
 A web-based tool that allows you to manually encode and decode UTF-8 byte sequences. Built with Vite + React + TypeScript, this project helps you understand how UTF-8 encoding works under the hood, including support for emojis, multilingual text, and raw hex byte input.
 
